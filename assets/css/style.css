@@ -1594,7 +1594,7 @@ div.project-gallery .project-item:hover img{
 /* HERO */
 
 .about-hero{
-  background-image: url(/assets/img/page-title-bg.jpg);
+   background-image: url('https://jimwellsoriano13.github.io/construction-web/images/background.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
